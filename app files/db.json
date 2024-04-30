@@ -1,0 +1,95 @@
+{
+  "Login": [
+    {
+      "id": "1",
+      "name": "hiren",
+      "username": "hiren",
+      "email": "hiren@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "3c2c",
+      "name": "jeel",
+      "username": "jeel",
+      "email": "j@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "e52f",
+      "name": "hijeel",
+      "username": "hijeel",
+      "email": "hi@g.com",
+      "password": "123"
+    }
+  ],
+  "addtocart": [
+    {
+      "id": "bf81",
+      "img": "images/car/white-wagon.jpg",
+      "name": "White G-Wagon",
+      "price": "220"
+    },
+    {
+      "id": "35f5",
+      "img": "images/car/black-wagon.jpeg",
+      "name": "Black G-Wagon",
+      "price": "100"
+    },
+    {
+      "id": "ee1b",
+      "img": "images/car/red-wagon.jpg",
+      "name": "Red G-Wagon",
+      "price": "150"
+    }
+  ],
+  "ShopData": [
+    {
+      "id": "1",
+      "img": "images/car/black-wagon.jpeg",
+      "name": "Black G-Wagon",
+      "price": "100"
+    },
+    {
+      "id": "2",
+      "img": "images/car/red-wagon.jpg",
+      "name": "Red G-Wagon",
+      "price": "150"
+    },
+    {
+      "id": "3",
+      "img": "images/car/orange-wagon.jpg",
+      "name": "Orange G-Wagon",
+      "price": "200"
+    },
+    {
+      "id": "4",
+      "img": "images/car/white-wagon.jpg",
+      "name": "White G-Wagon",
+      "price": "220"
+    },
+    {
+      "id": "1",
+      "img": "images/car/black-wagon.jpeg",
+      "name": "Black G-Wagon",
+      "price": "100"
+    },
+    {
+      "id": "2",
+      "img": "images/car/red-wagon.jpg",
+      "name": "Red G-Wagon",
+      "price": "150"
+    },
+    {
+      "id": "3",
+      "img": "images/car/orange-wagon.jpg",
+      "name": "Orange G-Wagon",
+      "price": "200"
+    },
+    {
+      "id": "4",
+      "img": "images/car/white-wagon.jpg",
+      "name": "White G-Wagon",
+      "price": "220"
+    }
+  ]
+}

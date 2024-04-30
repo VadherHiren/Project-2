@@ -1,0 +1,7 @@
+// npm i react-bootstrap bootstrap ------------(for bootstrap)
+// npm i react-router-dom  --------------------(router node module).
+// npm i -g json-server -----------------------(for localhost)
+// npm install react-toastify 
+
+
+// json-server --watch db.json --port 4000 ----(dami server)
